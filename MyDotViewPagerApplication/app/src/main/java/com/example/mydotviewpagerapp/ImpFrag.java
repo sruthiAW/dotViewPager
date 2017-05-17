@@ -31,7 +31,7 @@ public class ImpFrag extends Fragment {
 
         ArrayList<String> list = new ArrayList<>();
 
-        for(int i = 0; i<10; i++){
+        for(int i = 0; i<13; i++){
             list.add("Content"+i);
         }
 
@@ -39,7 +39,6 @@ public class ImpFrag extends Fragment {
         tabLayout = (TabLayout) view.findViewById(R.id.tabLayout);
 
         viewPager.setAdapter(new ViewPagerAdapter(getContext(), getFragmentManager(), list));
-        viewPager.setOffscreenPageLimit(2);
 
         viewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
             @Override

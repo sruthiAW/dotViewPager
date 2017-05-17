@@ -18,11 +18,15 @@ import java.util.List;
 public class DummyFragment extends Fragment {
 
     ArrayList<String> list = new ArrayList<>();
+    int pagePosition;
+    boolean hasMoreFiles;
 
-    public static DummyFragment newInstance(ArrayList<String> stringList) {
+    public static DummyFragment newInstance(ArrayList<String> stringList, int pagePosition, boolean hasMoreFiles) {
 
         Bundle args = new Bundle();
         args.putStringArrayList("content_list", stringList);
+        args.putInt("page_position", pagePosition);
+        args.putBoolean("has_more_files", hasMoreFiles);
         DummyFragment fragment = new DummyFragment();
         fragment.setArguments(args);
         return fragment;
@@ -37,10 +41,22 @@ public class DummyFragment extends Fragment {
 
         if(getArguments() != null){
             list = getArguments().getStringArrayList("content_list");
+            pagePosition = getArguments().getInt("page_position");
+            hasMoreFiles = getArguments().getBoolean("has_more_files");
         }
 
-        for(String content : list){
-            parent_layout.addView(new ImpFileContent(getContext(), content));
+        //Do this only for the 4th page. Pass position in ctor
+        if(pagePosition == 3 && hasMoreFiles){
+            for(int i = 0; i < list.size()-1; i++){
+                parent_layout.addView(new ImpFileContent(getContext(), list.get(i)));
+            }
+            parent_layout.addView(new PlusFileIcon(getContext()));
+
+        } else {
+
+            for (String content : list) {
+                parent_layout.addView(new ImpFileContent(getContext(), content));
+            }
         }
 
         return view;

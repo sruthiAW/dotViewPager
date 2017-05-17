@@ -30,7 +30,7 @@ public class ViewPagerAdapter extends FragmentStatePagerAdapter {
     @Override
     public Fragment getItem(int position) {
 
-        return DummyFragment.newInstance(choppedList.get(position));
+        return DummyFragment.newInstance(choppedList.get(position), position, choppedList.size() > 4);
     }
 
     @Override
@@ -41,8 +41,7 @@ public class ViewPagerAdapter extends FragmentStatePagerAdapter {
 
     @Override
     public int getCount() {
-//        return contentList.size()/context.getResources().getInteger(R.integer.imp_file_count_per_page);
-        return choppedList.size();
+        return choppedList.size() > 4 ? 4 : choppedList.size();
     }
 
     // chops a list into non-view sublists of length L
