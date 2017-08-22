@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\build\\intermediates\\res\\merged\\debug\\raw\\android_dinner.jpg",
+        "source": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\src\\main\\res\\raw\\android_dinner.jpg"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\build\\intermediates\\res\\merged\\debug\\raw\\dog_names.txt",
+        "source": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\src\\main\\res\\raw\\dog_names.txt"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\build\\intermediates\\res\\merged\\debug\\raw\\android_pumpkins_fall.jpg",
+        "source": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\src\\main\\res\\raw\\android_pumpkins_fall.jpg"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\build\\intermediates\\res\\merged\\debug\\raw\\android_computer_android_studio.jpg",
+        "source": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\src\\main\\res\\raw\\android_computer_android_studio.jpg"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\build\\intermediates\\res\\merged\\debug\\raw\\android_rose.jpg",
+        "source": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\src\\main\\res\\raw\\android_rose.jpg"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\build\\intermediates\\res\\merged\\debug\\raw\\android_computer_back.jpg",
+        "source": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\src\\main\\res\\raw\\android_computer_back.jpg"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\build\\intermediates\\res\\merged\\debug\\raw\\example.docx",
+        "source": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\src\\main\\res\\raw\\example.docx"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\build\\intermediates\\res\\merged\\debug\\raw\\cat_names.txt",
+        "source": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\src\\main\\res\\raw\\cat_names.txt"
+    }
+]

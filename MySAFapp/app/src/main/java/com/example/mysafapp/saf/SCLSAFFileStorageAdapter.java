@@ -5,7 +5,7 @@
  *
  *
  *******************************************************************************/
-package com.airwatch.contentlocker.saf;
+package com.example.mysafapp.saf;
 
 import com.airwatch.contentlocker.db.DbAdapter;
 import com.airwatch.contentlocker.model.ContentEntity;

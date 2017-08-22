@@ -5,15 +5,12 @@
  *
  *
  *******************************************************************************/
-package com.airwatch.contentlocker.saf;
+package com.example.mysafapp.saf;
 
 import android.provider.DocumentsContract;
 
-import com.airwatch.contentlocker.R;
-import com.airwatch.contentlocker.SettingFacade;
-import com.airwatch.contentlocker.saf.base.ISAFAppDataConfig;
+import com.example.mysafapp.saf.base.ISAFAppDataConfig;
 
-import static com.airwatch.contentlocker.ContentLockerApplication.getContext;
 
 /**
  * Created by alaxminarayan on 5/24/17.

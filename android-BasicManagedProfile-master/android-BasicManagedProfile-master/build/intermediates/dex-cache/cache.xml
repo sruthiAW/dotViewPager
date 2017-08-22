@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ssurendran\.android\build-cache\54eb5dd9555545c412716c53693c0f8d8b9686d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="E:\androidgarnet\android-BasicManagedProfile-master\android-BasicManagedProfile-master\Application\build\intermediates\pre-dexed\debug\classes_fd6c0b9117466d3021391a56becd2a2d2bc0fc0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ssurendran\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="E:\androidgarnet\android-BasicManagedProfile-master\android-BasicManagedProfile-master\Application\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta4_050b9acdafcbe48be1553dfc6522c3517e8e97bc.jar" />
+    </item>
+
+</items>

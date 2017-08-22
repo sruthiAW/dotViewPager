@@ -5,7 +5,7 @@
  *
  *
  *******************************************************************************/
-package com.airwatch.contentlocker.saf.base;
+package com.example.mysafapp.saf.base;
 
 /**
  * Created by alaxminarayan on 5/24/17.

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\androidgarnet\\android-BasicManagedProfile-master\\android-BasicManagedProfile-master\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\filepaths.xml",
+        "source": "E:\\androidgarnet\\android-BasicManagedProfile-master\\android-BasicManagedProfile-master\\Application\\src\\main\\res\\xml\\filepaths.xml"
+    },
+    {
+        "merged": "E:\\androidgarnet\\android-BasicManagedProfile-master\\android-BasicManagedProfile-master\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\basic_device_admin_receiver.xml",
+        "source": "E:\\androidgarnet\\android-BasicManagedProfile-master\\android-BasicManagedProfile-master\\Application\\src\\main\\res\\xml\\basic_device_admin_receiver.xml"
+    }
+]

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ssurendran\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\StudioWorkSpace_New\android-StorageProvider-master\android-StorageProvider-master\Application\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_b06bebd8c07027ff749415295d17f02ebe284682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ssurendran\.android\build-cache\d7050552138ca324ccb8ec496c84b0396599ef80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\StudioWorkSpace_New\android-StorageProvider-master\android-StorageProvider-master\Application\build\intermediates\pre-dexed\debug\classes_6a0757ca4475114f3fe382699cec746c4b584849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ssurendran\.android\build-cache\fecde67e9dd3f1241e077361eda794cba7f317c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\StudioWorkSpace_New\android-StorageProvider-master\android-StorageProvider-master\Application\build\intermediates\pre-dexed\debug\classes_bab3a9f66621586879b0e7b9bfaeaee0dfd22504.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ssurendran\.android\build-cache\449e2c493d398365c9a52075d87e5fed63b50107\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\StudioWorkSpace_New\android-StorageProvider-master\android-StorageProvider-master\Application\build\intermediates\pre-dexed\debug\classes_df7c4389222148330f0362763d930a11b19644e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ssurendran\.android\build-cache\9a95c5bd7cadeb86df450e7e4b884b0d1c360ba0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\StudioWorkSpace_New\android-StorageProvider-master\android-StorageProvider-master\Application\build\intermediates\pre-dexed\debug\classes_da92e85c84f66c48b79e17eb7be0af71be748f21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ssurendran\.android\build-cache\feddc0aec81eefa1aecc5475d8cd1732a5fd9935\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="E:\StudioWorkSpace_New\android-StorageProvider-master\android-StorageProvider-master\Application\build\intermediates\pre-dexed\debug\classes_3b86a858a402c6294588d976bfc84bffc926ea07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ssurendran\.android\build-cache\cefc0e54f2e99b5588dda07a0730fe3741053812\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\StudioWorkSpace_New\android-StorageProvider-master\android-StorageProvider-master\Application\build\intermediates\pre-dexed\debug\classes_352e1f65bb1fd1e4556a80f04d96b697abafddc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ssurendran\.android\build-cache\f62e2d5d22607781a11e785f46eefe3f8f87b07d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\StudioWorkSpace_New\android-StorageProvider-master\android-StorageProvider-master\Application\build\intermediates\pre-dexed\debug\classes_db05967e56c872dd3f7606b6f3bb0ccfb220f5f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ssurendran\.android\build-cache\39be510eefd38c9b5d2199edc692b62a7e0a6dde\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\StudioWorkSpace_New\android-StorageProvider-master\android-StorageProvider-master\Application\build\intermediates\pre-dexed\debug\classes_6e7b7d89eb3717e0a5814f713918db38f6ae83b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ssurendran\.android\build-cache\7963b54af163baad736f85d453bece653b74f983\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\StudioWorkSpace_New\android-StorageProvider-master\android-StorageProvider-master\Application\build\intermediates\pre-dexed\debug\classes_0ec0ae5fd95e9f4cc827c800770ac5cccd7d5b5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ssurendran\.android\build-cache\87c4d39ae1a3796fdbe85d0c031fa025d78a6543\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\StudioWorkSpace_New\android-StorageProvider-master\android-StorageProvider-master\Application\build\intermediates\pre-dexed\debug\classes_135ca1b3fc544c37a2381a3c5b6e1da18b0db32f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ssurendran\.android\build-cache\45cc9a5fb80ef4d38a26aea7928f1f79778c32fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\StudioWorkSpace_New\android-StorageProvider-master\android-StorageProvider-master\Application\build\intermediates\pre-dexed\debug\classes_65390d8c47857b972268705b95f3777d8973138a.jar" />
+    </item>
+
+</items>

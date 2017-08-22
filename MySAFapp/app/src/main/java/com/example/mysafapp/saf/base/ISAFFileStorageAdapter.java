@@ -5,7 +5,7 @@
  *
  *
  *******************************************************************************/
-package com.airwatch.contentlocker.saf.base;
+package com.example.mysafapp.saf.base;
 
 import com.airwatch.contentlocker.model.ContentEntity;
 import com.airwatch.contentlocker.model.Folder;

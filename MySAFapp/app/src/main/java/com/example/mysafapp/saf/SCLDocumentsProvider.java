@@ -5,7 +5,7 @@
  *
  *
  *******************************************************************************/
-package com.airwatch.contentlocker.saf;
+package com.example.mysafapp.saf;
 
 import android.database.Cursor;
 import android.database.MatrixCursor;

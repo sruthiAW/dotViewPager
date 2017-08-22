@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ssurendran\\.android\\build-cache\\7963b54af163baad736f85d453bece653b74f983\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\ssurendran\\.android\\build-cache\\7963b54af163baad736f85d453bece653b74f983\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\ssurendran\\.android\\build-cache\\7963b54af163baad736f85d453bece653b74f983\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace_New\\android-StorageProvider-master\\android-StorageProvider-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ssurendran\\.android\\build-cache\\7963b54af163baad736f85d453bece653b74f983\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

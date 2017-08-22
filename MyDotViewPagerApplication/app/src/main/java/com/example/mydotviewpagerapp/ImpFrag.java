@@ -31,7 +31,7 @@ public class ImpFrag extends Fragment {
 
         ArrayList<String> list = new ArrayList<>();
 
-        for(int i = 0; i<13; i++){
+        for(int i = 0; i<1; i++){
             list.add("Content"+i);
         }
 
